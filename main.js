@@ -105,3 +105,4 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(createObstacle, 500);
     requestAnimationFrame(gameLoop);
 });
+// testing 
